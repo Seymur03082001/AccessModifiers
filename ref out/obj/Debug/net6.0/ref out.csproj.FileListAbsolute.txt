@@ -1,0 +1,5 @@
+C:\Users\Help\Desktop\ref out\ref out\obj\Debug\net6.0\ref out.csproj.AssemblyReference.cache
+C:\Users\Help\Desktop\ref out\ref out\obj\Debug\net6.0\ref out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Help\Desktop\ref out\ref out\obj\Debug\net6.0\ref out.AssemblyInfoInputs.cache
+C:\Users\Help\Desktop\ref out\ref out\obj\Debug\net6.0\ref out.AssemblyInfo.cs
+C:\Users\Help\Desktop\ref out\ref out\obj\Debug\net6.0\ref out.csproj.CoreCompileInputs.cache
